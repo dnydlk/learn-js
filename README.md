@@ -2,4 +2,4 @@
 
 JavaScript tutorial repo
 
-### Duolikun Daniya 020624
+### Duolikun Daniya
